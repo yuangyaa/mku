@@ -1,0 +1,124 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: covid-19 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\yuangyaa\AppData\Local\Temp\RSPE236.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/covid-19.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\yuangyaa\Desktop\my_c_covid19\covid-19\covid-19.c"
+]
+Creating command line "cl.exe @C:\Users\yuangyaa\AppData\Local\Temp\RSPE236.tmp" 
+<h3>Output Window</h3>
+Compiling...
+covid-19.c
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : warning C4045: '计算机信息学院",' : array bounds overflow
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2059: syntax error : 'constant'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe8'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xae'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xa1'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xae'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x97'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x9c'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xba'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xa7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x91'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe5'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xad'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xa6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe4'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xb8'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x8e'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x8a'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x80'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0x9c'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(43) : error C2018: unknown character '0xaf'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x9d'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x8e'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe5'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x9b'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x9b'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe8'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xae'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa1'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xae'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x97'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x9c'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xba'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe4'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xbf'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa1'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x81'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xaf'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe5'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xad'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa6'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe9'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x99'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa2'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xbd'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x91'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xbb'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x9c'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe5'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xb7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa5'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xe7'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0xa8'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(45) : error C2018: unknown character '0x8b'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(46) : error C2001: newline in constant
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(79) : warning C4129: '�' : unrecognized character escape sequence
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(81) : error C2231: '.name' : left operand points to 'struct', use '->'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(112) : warning C4098: 'student_replace' : 'void' function returning a value
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(242) : error C2065: 'i' : undeclared identifier
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(247) : warning C4013: 'college_healthy_sum' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(251) : warning C4013: 'student_healthy' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(252) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(260) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(264) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(267) : warning C4013: 'teacher_admin' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(268) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(304) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(308) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(316) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(320) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(323) : warning C4013: 'college_healthy' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(324) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(327) : warning C4013: 'student_healthy_unusually' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(328) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(331) : warning C4013: 'student_healthy_danger' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(332) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(364) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(367) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(369) : warning C4013: 'student_healthy_input' undefined; assuming extern returning int
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(370) : warning C4010: single-line comment contains line-continuation character
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(371) : error C2143: syntax error : missing ';' before 'break'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(398) : error C2143: syntax error : missing ';' before 'return'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(407) : error C2143: syntax error : missing ';' before 'return'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(419) : error C2065: 'switch_num' : undeclared identifier
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(436) : error C2001: newline in constant
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(437) : error C2143: syntax error : missing ')' before 'goto'
+c:\users\yuangyaa\desktop\my_c_covid19\covid-19\covid-19.c(444) : error C2143: syntax error : missing ';' before '}'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+covid-19.obj - 87 error(s), 9 warning(s)
+</pre>
+</body>
+</html>
